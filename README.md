@@ -1,5 +1,7 @@
 
-**PEGASUS SPYWARE JAVA RECOMPILED** - I have recompiled all JAVA from the Pegasus Spyware and the results are Shockingly Horrible!
+**PEGASUS SPYWARE JAVA RECOMPILED**
+
+recompiled all JAVA from the Pegasus Spyware and the results are Shockingly Horrible!
 
 
 ![PEGASUS SPYWARE JAVA RECOMPILED](https://i.postimg.cc/sDKh13Yr/pegaus-recompiled.jpg)
